@@ -5,9 +5,7 @@
 #### Profile in English: <kbd>[<img title="English" alt="English" src="https://img.icons8.com/color/48/000000/usa.png" width="22">](https://github.com/RAMYEB9/RAMYEB9/edit/main/README.md)</kbd>
 
 </div>
-<img width="1000px" height="500" alt="perfil" src="https://github.com/user-attachments/assets/c0b9522e-1495-4abb-b25a-d1d877b4986b" />
-
-
+<img width="1408" height="768" alt="back-front" src="https://github.com/user-attachments/assets/fd12db89-1617-4292-ad8e-6c77c9b49ded" />
 
 <div align="right">
 <br>
@@ -18,7 +16,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=8833D7&width=600&height=60&lines=Bem+vindo(a)+ao+meu+Perfil!;Sou+Desenvolvedor+Front+End;Back+End;Formação+em+Full+Stack;Estudante+de+Ciências+da+Computação%)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=blue&width=600&height=60&lines=Bem+vindo(a)+ao+meu+Perfil!;Sou+Desenvolvedor+Front+End;Back+End;Formação+Full+Stack;Estudante+de+Ciências+da+Computação%)](https://git.io/typing-svg)
 
 </div>
 
