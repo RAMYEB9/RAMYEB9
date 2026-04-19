@@ -5,10 +5,9 @@
 #### Profile in English: <kbd>[<img title="English" alt="English" src="https://img.icons8.com/color/48/000000/usa.png" width="22">](https://github.com/RAMYEB9/RAMYEB9/edit/main/README.md)</kbd>
 
 </div>
+<img width="1000px" height="500" alt="perfil" src="https://github.com/user-attachments/assets/c0b9522e-1495-4abb-b25a-d1d877b4986b" />
 
-<div>
-  <img align="center" alt="Pixel-Art" width="1000px" src="https://github.com/AnaProgramando/AnaProgramando/blob/01aedc336431ca8444347703ce043252a085eb6f/banner_welcome.png"/>
-</div>
+
 
 <div align="right">
 <br>
