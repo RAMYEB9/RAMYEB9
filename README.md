@@ -18,7 +18,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=8833D7&width=600&height=60&lines=Bem+vindo(a)+ao+meu+Perfil!;Sou+Desenvolvedor+Front+End%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Back+End%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Formação+em+Full+Stack;Estudante+de+Ciências+da+Computação%)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=8833D7&width=600&height=60&lines=Bem+vindo(a)+ao+meu+Perfil!;Sou+Desenvolvedor+Front+End;Back+End;Formação+em+Full+Stack;Estudante+de+Ciências+da+Computação%)](https://git.io/typing-svg)
 
 </div>
 
@@ -146,7 +146,13 @@ Serviços: `Cliente`, `Atendimento`, `Billing`, `Microsoft Dynamics CRM`
 <br>
 
 # 👩‍🎓 Formação acadêmica
-UNINOVE
+<div>
+  UNINOVE
+   <img align="right" alt="Universidade" width="100px" height="100px" src="https://unifep.com.br/imgs/logo-uninova.svg"/>
+  
+</div>
+
+
 
 <!-- <br>
 
@@ -196,7 +202,7 @@ Conecte-se comigo em outras redes!
 
 
 
-# ☕ Buy Me a Coffee
+# ☕ A Coffee
 
 <br>
 
